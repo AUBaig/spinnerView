@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyQuizApp</string>
+    <string name="q1">My name is Asad</string>
+    <string name="q2">Imran khan is PM of Pakistan</string>
+    <string name="q3">Our Country name is Pakistan</string>
+    <string name="q4">Our Country has 10 Provinces</string>
+
+</resources>
